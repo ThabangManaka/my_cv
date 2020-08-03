@@ -1,3 +1,72 @@
 h1, h2 {
-  font-family: Lato;
+  font-family: Arial;
+    font-size: 18px;
 }
+
+    .home-content-box h1{
+      font-size: 18px;
+        color: blue;
+         font-family: Arial;
+    }
+    
+       .home-content-box h2{
+      font-size: 18px;
+        color: blue;
+   
+    }
+  .detail-item {
+    font-size: 18px;
+  }
+   .detail-item-title {
+      color: blue;
+     font-size: 18px;
+   
+   } 
+   .detail-item h3,h5{
+      color: blue;
+        font-size: 18px;
+   }
+   .detail-item-desc p{
+      font-size: 18px;
+       font-family: Arial;
+       color: black;
+   }
+   .detail-item-desc h5{
+     color: blue;
+   }
+   .work-experience-item h4,h6{
+         color: blue;
+           font-size: 18px;
+            font-family: Arial;
+   }
+    .work-experience-item h6{
+         color: blue;
+          font-family: Arial;
+           font-size: 18px;
+   }
+     .work-experience-item p {
+        font-family: Arial;
+        font-size: 18px;
+       color: black;
+     }
+   .content-title h3{
+      color: blue;
+       font-size: 18px;
+   }
+   .reference-item h4{
+       color: blue;
+           font-size: 18px;
+            font-family: Arial;
+   }
+   .reference-item h6{
+      color: blue;
+          font-size: 18px;
+           font-family: Arial;
+   }
+   .reference-item-desc p{
+      font-size: 18px;
+       font-family: Arial;
+       color: black;
+   }
+
+       
